@@ -9,7 +9,7 @@ using Servicio;
 namespace CapaControladorVista.Autofac
 {
     public class AutofacModulo
-    {
+    {//test git
         public AutofacModulo ()
 	{
             var builder = new ContainerBuilder();
